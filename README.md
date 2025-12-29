@@ -1,5 +1,19 @@
-# 💫 About Me:
-Hi 👋, I’m Manoj<br><br>💡 AI & Data Science Undergraduate | Machine Learning & NLP Engineer<br><br>🧠 About Me<br><br>🎓 Final-year B.E. student specializing in Artificial Intelligence & Data Science<br>🧠 Strong focus on Machine Learning, NLP, and Transformer-based models<br>⚙️ Interested in AI system design, model evaluation, and real-world deployment constraints<br><br>📊 Built an AI-powered YouTube Sentiment & Comment Intelligence system using ensemble Transformer models (BERT, RoBERTa, DistilBERT)<br>🔍 Developed Retrieval-Augmented Generation (RAG) applications using LangChain, ChromaDB, and locally hosted LLMs<br>🧪 Worked on Wine Quality Prediction using classical ML with proper preprocessing, tuning, and evaluation<br>🛠️ Experience integrating ML models with APIs and databases for practical use cases<br><br>🌱 Currently deepening knowledge in LLMs, RAG architectures, deep learning, and model optimization<br>💬 Ask me about Machine Learning, NLP, Transformers, RAG pipelines, or ML deployment<br><br>🎯 Goal: Build reliable, practical AI systems that perform well beyond academic datasets.
+👋 Hi, I’m Manoj
+
+💡 AI & Data Science Undergraduate | Machine Learning & NLP Engineer
+
+🧠 About Me 
+
+🎓 Final-year B.E. student specializing in Artificial Intelligence & Data Science
+🧠 Strong focus on Machine Learning, NLP, and Transformer-based models
+⚙️ Interested in AI system design, model evaluation, and real-world deployment constraints
+
+📊 Built an AI-powered YouTube Sentiment & Comment Intelligence system using ensemble Transformer models
+🔍 Developed Retrieval-Augmented Generation (RAG) applications using LangChain, ChromaDB, and locally hosted LLMs
+🧪 Worked on Wine Quality Prediction using classical ML with proper preprocessing, tuning, and evaluation
+🛠️ Experience integrating ML models with APIs and databases for practical use cases
+
+🎯 Objective: Build reliable, practical AI systems that perform beyond academic datasets and demos.
 
 
 ## 🌐 Socials:
