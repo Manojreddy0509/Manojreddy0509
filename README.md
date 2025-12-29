@@ -1,40 +1,92 @@
+<!-- 👋 Hi there! I'm Manoj -->
 <h1 align="center">Hi 👋, I'm Manoj</h1>
 
+<h3 align="center">
+💡 AI & Data Science Undergraduate | Machine Learning & NLP Engineer
+</h3>
+
 <p align="center">
-  <b>AI & Data Science Undergraduate • Machine Learning & NLP Engineer</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Machine+Learning+%26+NLP+Engineer;Building+practical+AI+systems;Transformers+%7C+RAG+%7C+Model+Deployment;Focused+on+real-world+AI+applications" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-
-🎓 Pursuing B.E. in Artificial Intelligence & Data Science
-🧠 Strong interest in Machine Learning, NLP, and Transformer-based models
-⚙️ Focused on building practical AI systems, not just training models
-📊 Built an AI-powered YouTube Sentiment & Comment Intelligence system using ensemble Transformers (BERT)
-🔍 Developed Retrieval-Augmented Generation (RAG) applications using LangChain, ChromaDB, and locally hosted LLMs
-🧪 Worked on Wine Quality Prediction using classical ML with proper preprocessing, tuning, and evaluation
-🛠️ Experience integrating ML models with APIs and databases for real-world use cases
-💬 Ask me about: Machine Learning, NLP, Transformers, RAG pipelines, or ML deployment
-🎯 Goal: Build reliable, scalable AI systems that perform beyond academic datasets and demos
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manoj0509)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manojdyava05@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/manojdyava05/)
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Manojreddy0509&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Manojreddy0509&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manojreddy0509&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Manojreddy0509&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+- 🎓 Pursuing **B.E. in Artificial Intelligence & Data Science**
+- 🧠 Strong interest in **Machine Learning, NLP, and Transformer-based models**
+- ⚙️ Focused on **building practical AI systems**, not just training models
+- 📊 Built an **AI-powered YouTube Sentiment & Comment Intelligence system** using ensemble Transformers (BERT, RoBERTa, DistilBERT)
+- 🔍 Developed **Retrieval-Augmented Generation (RAG) applications** using LangChain, ChromaDB, and locally hosted LLMs
+- 🧪 Worked on **Wine Quality Prediction** using classical ML with proper preprocessing, tuning, and evaluation
+- 🛠️ Experience integrating **ML models with APIs and databases** for real-world use cases
+- 💬 Ask me about: **Machine Learning, NLP, Transformers, RAG pipelines, or ML deployment**
+- 🎯 **Goal:** Build reliable, scalable AI systems that perform beyond academic datasets and demos
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Manojreddy0509&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tech Stack & Tools
+
+### 💻 Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🧠 Machine Learning & AI  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+
+### ⚙️ Backend, APIs & Data  
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 YouTube Sentiment & Comment Intelligence
+> NLP system using ensemble Transformer models to classify and analyze large-scale YouTube comments with sentiment insights.
+
+### 🔍 Retrieval-Augmented Generation (RAG) Apps
+> Built local RAG pipelines using LangChain, ChromaDB, and locally hosted LLMs for document-based Q&A.
+
+###  AI Resume–Job Matching Platform
+> NLP-powered platform that semantically matches resumes to job descriptions using embeddings, skills, and experience with explainable match scores.
+
+---
+
+## 📈 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Manojreddy0509&show_icons=true&theme=radical" height="160"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Manojreddy0509&theme=radical" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Manojreddy0509&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🌐 Connect & Profiles
+
+<p align="center">
+  <a href="mailto:manojdyava05@gmail.com">
+    <img src="https://img.icons8.com/fluent/48/000000/gmail-new.png" width="38"/>
+  </a>
+  <a href="https://linkedin.com/in/manoj0509">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="38"/>
+  </a>
+  <a href="https://leetcode.com/u/manojdyava05/">
+    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-orange?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
+
+---
+
+
