@@ -63,13 +63,10 @@
 ## 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manojreddy0509&show_icons=true&theme=radical" height="160"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Manojreddy0509&theme=radical" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Manojreddy0509&theme=radical&no-frame=true&row=1&column=6" />
-</p>
+
 
 ---
 
@@ -82,9 +79,16 @@
   <a href="https://linkedin.com/in/manoj0509">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="38"/>
   </a>
-  <a href="https://leetcode.com/u/manojdyava05/">
-    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-orange?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <a href="https://leetcode.com/u/manojdyava05/" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg"
+      width="26"
+      style="background-color:#FFA116; padding:6px; border-radius:50%;"
+      alt="LeetCode"
+    />
   </a>
+
+
 </p>
 
 ---
