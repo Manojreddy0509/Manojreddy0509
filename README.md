@@ -1,19 +1,26 @@
-👋 Hi, I’m Manoj
+Hi 👋, I’m Manoj
 
 💡 AI & Data Science Undergraduate | Machine Learning & NLP Engineer
 
-🧠 About Me 
+🧠 About Me
 
-🎓 Final-year B.E. student specializing in Artificial Intelligence & Data Science
-🧠 Strong focus on Machine Learning, NLP, and Transformer-based models
-⚙️ Interested in AI system design, model evaluation, and real-world deployment constraints
+🎓 Pursuing B.E. in Artificial Intelligence & Data Science
 
-📊 Built an AI-powered YouTube Sentiment & Comment Intelligence system using ensemble Transformer models
+🧠 Strong interest in Machine Learning, NLP, and Transformer-based models
+
+⚙️ Focused on building practical AI systems, not just training models
+
+📊 Built an AI-powered YouTube Sentiment & Comment Intelligence system using ensemble Transformers (BERT, RoBERTa, DistilBERT)
+
 🔍 Developed Retrieval-Augmented Generation (RAG) applications using LangChain, ChromaDB, and locally hosted LLMs
-🧪 Worked on Wine Quality Prediction using classical ML with proper preprocessing, tuning, and evaluation
-🛠️ Experience integrating ML models with APIs and databases for practical use cases
 
-🎯 Objective: Build reliable, practical AI systems that perform beyond academic datasets and demos.
+🧪 Worked on Wine Quality Prediction using classical ML with proper preprocessing, tuning, and evaluation
+
+🛠️ Experience integrating ML models with APIs and databases for real-world use cases
+
+💬 Ask me about: Machine Learning, NLP, Transformers, RAG pipelines, or ML deployment
+
+🎯 Goal: Build reliable, scalable AI systems that perform beyond academic datasets and demos
 
 
 ## 🌐 Socials:
